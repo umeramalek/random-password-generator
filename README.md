@@ -28,7 +28,7 @@ So I created another repo on github and cloned it down and started from scratch 
 
 ## Built With
 
-* [Javascript](script.js)
+* [Javascript] (homework/Develop/script.js)
 
 ## Deployed Link
 
