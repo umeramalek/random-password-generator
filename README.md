@@ -23,10 +23,12 @@ So I created another repo on github and cloned it down and started from scratch 
 
 ### Images
 
+![](homework/Assets/images/code-1.png)
+![](homework/Assets/images/code-2.png)
 
 ## Built With
 
-* [Javascript](script.js)
+* [Javascript] (homework/Develop/script.js)
 
 ## Deployed Link
 
